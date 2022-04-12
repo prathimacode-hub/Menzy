@@ -6,7 +6,9 @@ We had merged both by creating different branches under single repository.
 
 WebApp : https://prathimacode-hub.github.io/Menzy/
 
-![Menzy Chrome Extension](https://github.com/prathimacode-hub/Menzy/blob/main/menzy_chrome_extension_ss.png)
+<!-- ![Menzy Chrome Extension](https://github.com/prathimacode-hub/Menzy/blob/main/menzy_chrome_extension_ss.png) -->
+
+Menzy Chrome Extension Screenshot : https://github.com/prathimacode-hub/Menzy/blob/main/menzy_chrome_extension_ss.png
 
 This is a one stop solution to overcome the mental stress in the modern lifestyle with remote working culture and inculcate the fitness habit along with assessing up the individual's condition.
 
