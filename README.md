@@ -4,8 +4,6 @@ Menzy is a mental wellness application which is a triple featured Chrome Extensi
 
 We had merged both by creating different branches under single repository.
 
-WebApp : https://prathimacode-hub.github.io/Menzy/
-
 <!-- ![Menzy Chrome Extension](https://github.com/prathimacode-hub/Menzy/blob/main/menzy_chrome_extension_ss.png) -->
 
 Menzy Chrome Extension Screenshot : https://github.com/prathimacode-hub/Menzy/blob/main/menzy_chrome_extension_ss.png
